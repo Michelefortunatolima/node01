@@ -1,0 +1,27 @@
+{
+  "name": "meu-app",
+  "version": "1.0.0",
+  "description": "meu aplicativo back-end",
+  "keywords": [
+    "Web",
+    "Back-end"
+  ],
+  "homepage": "https://github.com/Michelefortunatolima/node01#readme",
+  "bugs": {
+    "url": "https://github.com/Michelefortunatolima/node01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michelefortunatolima/node01.git"
+  },
+  "license": "ISC",
+  "author": "Michele",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exe01": "node 01-exemplo.js",
+    "exe02": "node 02-exemplo.js",
+    "git": "git add . && git commit -m \"atualizando\" && git push"
+  }
+}
